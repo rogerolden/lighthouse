@@ -15,6 +15,12 @@
 		"oAP": "\/about-us.html",
 		"oF": 0
 		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
