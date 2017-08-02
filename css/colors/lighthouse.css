@@ -25,3 +25,7 @@
 .intro-form input:focus {
   border: 1px solid #F1705A;
 }
+
+.bg-gray {
+  background-color: #1D3F55 !important;
+}
